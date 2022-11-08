@@ -1,0 +1,641 @@
+https://restcountries.com/v3.1/alpha?codes=pe,ni,gb
+
+[
+    {
+        "name": {
+            "common": "Peru",
+            "official": "Republic of Peru",
+            "nativeName": {
+                "aym": {
+                    "official": "Piruw Suyu",
+                    "common": "Piruw"
+                },
+                "que": {
+                    "official": "Piruw Ripuwlika",
+                    "common": "Piruw"
+                },
+                "spa": {
+                    "official": "República del Perú",
+                    "common": "Perú"
+                }
+            }
+        },
+        "tld": [
+            ".pe"
+        ],
+        "cca2": "PE",
+        "ccn3": "604",
+        "cca3": "PER",
+        "cioc": "PER",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "PEN": {
+                "name": "Peruvian sol",
+                "symbol": "S/ "
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "1"
+            ]
+        },
+        "capital": [
+            "Lima"
+        ],
+        "altSpellings": [
+            "PE",
+            "Republic of Peru",
+            "República del Perú"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "aym": "Aymara",
+            "que": "Quechua",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية بيرو",
+                "common": "بيرو"
+            },
+            "bre": {
+                "official": "Republik Perou",
+                "common": "Perou"
+            },
+            "ces": {
+                "official": "Peruánská republika",
+                "common": "Peru"
+            },
+            "cym": {
+                "official": "Republic of Peru",
+                "common": "Peru"
+            },
+            "deu": {
+                "official": "Republik Peru",
+                "common": "Peru"
+            },
+            "est": {
+                "official": "Peruu Vabariik",
+                "common": "Peruu"
+            },
+            "fin": {
+                "official": "Perun tasavalta",
+                "common": "Peru"
+            },
+            "fra": {
+                "official": "République du Pérou",
+                "common": "Pérou"
+            },
+            "hrv": {
+                "official": "Republika Peru",
+                "common": "Peru"
+            },
+            "hun": {
+                "official": "Perui Köztársaság",
+                "common": "Peru"
+            },
+            "ita": {
+                "official": "Repubblica del Perù",
+                "common": "Perù"
+            },
+            "jpn": {
+                "official": "ペルー共和国",
+                "common": "ペルー"
+            },
+            "kor": {
+                "official": "페루 공화국",
+                "common": "페루"
+            },
+            "nld": {
+                "official": "Republiek Peru",
+                "common": "Peru"
+            },
+            "per": {
+                "official": "جمهوری پرو",
+                "common": "پرو"
+            },
+            "pol": {
+                "official": "Republika Peru",
+                "common": "Peru"
+            },
+            "por": {
+                "official": "República do Peru",
+                "common": "Perú"
+            },
+            "rus": {
+                "official": "Республика Перу",
+                "common": "Перу"
+            },
+            "slk": {
+                "official": "Peruánska republika",
+                "common": "Peru"
+            },
+            "spa": {
+                "official": "República de Perú",
+                "common": "Perú"
+            },
+            "swe": {
+                "official": "Republiken Peru",
+                "common": "Peru"
+            },
+            "tur": {
+                "official": "Peru Cumhuriyeti",
+                "common": "Peru"
+            },
+            "urd": {
+                "official": "جمہوریہ پیرو",
+                "common": "پیرو"
+            },
+            "zho": {
+                "official": "秘鲁共和国",
+                "common": "秘鲁"
+            }
+        },
+        "latlng": [
+            -10.0,
+            -76.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "COL",
+            "ECU"
+        ],
+        "area": 1285216.0,
+        "demonyms": {
+            "eng": {
+                "f": "Peruvian",
+                "m": "Peruvian"
+            },
+            "fra": {
+                "f": "Péruvienne",
+                "m": "Péruvien"
+            }
+        },
+        "flag": "🇵🇪",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
+        },
+        "population": 32971846,
+        "gini": {
+            "2019": 41.5
+        },
+        "fifa": "PER",
+        "car": {
+            "signs": [
+                "PE"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/pe.png",
+            "svg": "https://flagcdn.com/pe.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/pe.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/pe.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -12.05,
+                -77.05
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    },
+    {
+        "name": {
+            "common": "United Kingdom",
+            "official": "United Kingdom of Great Britain and Northern Ireland",
+            "nativeName": {
+                "eng": {
+                    "official": "United Kingdom of Great Britain and Northern Ireland",
+                    "common": "United Kingdom"
+                }
+            }
+        },
+        "tld": [
+            ".uk"
+        ],
+        "cca2": "GB",
+        "ccn3": "826",
+        "cca3": "GBR",
+        "cioc": "GBR",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "£"
+            }
+        },
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "capital": [
+            "London"
+        ],
+        "altSpellings": [
+            "GB",
+            "UK",
+            "Great Britain"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "languages": {
+            "eng": "English"
+        },
+        "translations": {
+            "ara": {
+                "official": "المملكة المتحدة لبريطانيا العظمى وايرلندا الشمالية",
+                "common": "المملكة المتحدة"
+            },
+            "bre": {
+                "official": "Rouantelezh-Unanet Breizh-Veur ha Norzhiwerzhon",
+                "common": "Rouantelezh-Unanet"
+            },
+            "ces": {
+                "official": "Spojené království Velké Británie a Severního Irska",
+                "common": "Spojené království"
+            },
+            "cym": {
+                "official": "United Kingdom of Great Britain and Northern Ireland",
+                "common": "United Kingdom"
+            },
+            "deu": {
+                "official": "Vereinigtes Königreich Großbritannien und Nordirland",
+                "common": "Vereinigtes Königreich"
+            },
+            "est": {
+                "official": "Suurbritannia ja Põhja-Iiri Ühendkuningriik",
+                "common": "Suurbritannia"
+            },
+            "fin": {
+                "official": "Ison-Britannian ja Pohjois-Irlannin yhdistynyt kuningaskunta",
+                "common": "Yhdistynyt kuningaskunta"
+            },
+            "fra": {
+                "official": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+                "common": "Royaume-Uni"
+            },
+            "hrv": {
+                "official": "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske",
+                "common": "Ujedinjeno Kraljevstvo"
+            },
+            "hun": {
+                "official": "Nagy-Britannia és Észak-Írország Egyesült Királysága",
+                "common": "Egyesült Királyság"
+            },
+            "ita": {
+                "official": "Regno Unito di Gran Bretagna e Irlanda del Nord",
+                "common": "Regno Unito"
+            },
+            "jpn": {
+                "official": "グレート·ブリテンおよび北アイルランド連合王国",
+                "common": "イギリス"
+            },
+            "kor": {
+                "official": "그레이트브리튼 북아일랜드 연합 왕국",
+                "common": "영국"
+            },
+            "nld": {
+                "official": "Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland",
+                "common": "Verenigd Koninkrijk"
+            },
+            "per": {
+                "official": "پادشاهی متحد بریتانیای کبیر و ایرلند شمالی",
+                "common": "انگلیس"
+            },
+            "pol": {
+                "official": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej",
+                "common": "Zjednoczone Królestwo"
+            },
+            "por": {
+                "official": "Reino Unido da Grã-Bretanha e Irlanda do Norte",
+                "common": "Reino Unido"
+            },
+            "rus": {
+                "official": "Соединенное Королевство Великобритании и Северной Ирландии",
+                "common": "Великобритания"
+            },
+            "slk": {
+                "official": "Spojené kráľovstvo Veľkej Británie a SevernéhoÌrska",
+                "common": "Veľká Británia (Spojené kráľovstvo)"
+            },
+            "spa": {
+                "official": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+                "common": "Reino Unido"
+            },
+            "swe": {
+                "official": "Förenade konungariket Storbritannien och Nordirland",
+                "common": "Storbritannien"
+            },
+            "tur": {
+                "official": "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı",
+                "common": "Birleşik Krallık"
+            },
+            "urd": {
+                "official": "مملکتِ متحدہ برطانیہ عظمی و شمالی آئرلینڈ",
+                "common": "مملکتِ متحدہ"
+            },
+            "zho": {
+                "official": "大不列颠及北爱尔兰联合王国",
+                "common": "英国"
+            }
+        },
+        "latlng": [
+            54.0,
+            -2.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "IRL"
+        ],
+        "area": 242900.0,
+        "demonyms": {
+            "eng": {
+                "f": "British",
+                "m": "British"
+            },
+            "fra": {
+                "f": "Britannique",
+                "m": "Britannique"
+            }
+        },
+        "flag": "🇬🇧",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/62149"
+        },
+        "population": 67215293,
+        "gini": {
+            "2017": 35.1
+        },
+        "car": {
+            "signs": [
+                "GB"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC-08:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00",
+            "UTC",
+            "UTC+01:00",
+            "UTC+02:00",
+            "UTC+06:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/gb.png",
+            "svg": "https://flagcdn.com/gb.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/gb.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/gb.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                51.5,
+                -0.08
+            ]
+        },
+        "postalCode": {
+            "format": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+            "regex": "^(([A-Z]\\d{2}[A-Z]{2})|([A-Z]\\d{3}[A-Z]{2})|([A-Z]{2}\\d{2}[A-Z]{2})|([A-Z]{2}\\d{3}[A-Z]{2})|([A-Z]\\d[A-Z]\\d[A-Z]{2})|([A-Z]{2}\\d[A-Z]\\d[A-Z]{2})|(GIR0AA))$"
+        }
+    },
+    {
+        "name": {
+            "common": "Nicaragua",
+            "official": "Republic of Nicaragua",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Nicaragua",
+                    "common": "Nicaragua"
+                }
+            }
+        },
+        "tld": [
+            ".ni"
+        ],
+        "cca2": "NI",
+        "ccn3": "558",
+        "cca3": "NIC",
+        "cioc": "NCA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "NIO": {
+                "name": "Nicaraguan córdoba",
+                "symbol": "C$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "05"
+            ]
+        },
+        "capital": [
+            "Managua"
+        ],
+        "altSpellings": [
+            "NI",
+            "Republic of Nicaragua",
+            "República de Nicaragua"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية نيكاراغوا",
+                "common": "نيكاراغوا"
+            },
+            "bre": {
+                "official": "Republik Nicaragua",
+                "common": "Nicaragua"
+            },
+            "ces": {
+                "official": "Republika Nikaragua",
+                "common": "Nikaragua"
+            },
+            "cym": {
+                "official": "Republic of Nicaragua",
+                "common": "Nicaragua"
+            },
+            "deu": {
+                "official": "Republik Nicaragua",
+                "common": "Nicaragua"
+            },
+            "est": {
+                "official": "Nicaragua Vabariik",
+                "common": "Nicaragua"
+            },
+            "fin": {
+                "official": "Nicaraguan tasavalta",
+                "common": "Nicaragua"
+            },
+            "fra": {
+                "official": "République du Nicaragua",
+                "common": "Nicaragua"
+            },
+            "hrv": {
+                "official": "Republika Nikaragva",
+                "common": "Nikaragva"
+            },
+            "hun": {
+                "official": "Nicaraguai Köztársaság",
+                "common": "Nicaragua"
+            },
+            "ita": {
+                "official": "Repubblica del Nicaragua",
+                "common": "Nicaragua"
+            },
+            "jpn": {
+                "official": "ニカラグア共和国",
+                "common": "ニカラグア"
+            },
+            "kor": {
+                "official": "니카라과 공화국",
+                "common": "니카라과"
+            },
+            "nld": {
+                "official": "Republiek Nicaragua",
+                "common": "Nicaragua"
+            },
+            "per": {
+                "official": "جمهوری نیکاراگوئه",
+                "common": "نیکاراگوئه"
+            },
+            "pol": {
+                "official": "Republika Nikaragui",
+                "common": "Nikaragua"
+            },
+            "por": {
+                "official": "República da Nicarágua",
+                "common": "Nicarágua"
+            },
+            "rus": {
+                "official": "Республика Никарагуа",
+                "common": "Никарагуа"
+            },
+            "slk": {
+                "official": "Nikaragujská republika",
+                "common": "Nikaragua"
+            },
+            "spa": {
+                "official": "República de Nicaragua",
+                "common": "Nicaragua"
+            },
+            "swe": {
+                "official": "Republiken Nicaragua",
+                "common": "Nicaragua"
+            },
+            "tur": {
+                "official": "Nikaragua Cumhuriyeti",
+                "common": "Nikaragua"
+            },
+            "urd": {
+                "official": "جمہوریہ نکاراگوا",
+                "common": "نکاراگوا"
+            },
+            "zho": {
+                "official": "尼加拉瓜共和国",
+                "common": "尼加拉瓜"
+            }
+        },
+        "latlng": [
+            13.0,
+            -85.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "CRI",
+            "HND"
+        ],
+        "area": 130373.0,
+        "demonyms": {
+            "eng": {
+                "f": "Nicaraguan",
+                "m": "Nicaraguan"
+            },
+            "fra": {
+                "f": "Nicaraguayenne",
+                "m": "Nicaraguayen"
+            }
+        },
+        "flag": "🇳🇮",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287666"
+        },
+        "population": 6624554,
+        "gini": {
+            "2014": 46.2
+        },
+        "fifa": "NCA",
+        "car": {
+            "signs": [
+                "NIC"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ni.png",
+            "svg": "https://flagcdn.com/ni.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ni.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ni.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                12.13,
+                -86.25
+            ]
+        },
+        "postalCode": {
+            "format": "###-###-#",
+            "regex": "^(\\d{7})$"
+        }
+    }
+]
